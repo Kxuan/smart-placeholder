@@ -1,0 +1,27 @@
+/**
+ * Author: kXuan <kxuanobj@gmail.com>
+ * License: MIT
+ */
+
+.lightfield {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.lightfield_fs {
+    margin: 0;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.lightfield_fs_focus {
+    border: 1px solid blue;
+}
+
+.lightfield_lg {
+    color: lightgray;
+    padding: 0;
+    position: relative;
+}
